@@ -1,5 +1,5 @@
 # Why does the tutorial send us to start from scratch but the lecture tells us to use this?
-name: Java CI with Maven
+name: Run Maven build
 
 on:
   push:
